@@ -104,8 +104,8 @@ $script:MainWindowXaml = @"
     <Grid Margin="10">
       <Grid.RowDefinitions>
         <RowDefinition Height="Auto"/>
-        <RowDefinition Height="2*"/>
-        <RowDefinition Height="140"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
         <RowDefinition Height="Auto"/>
       </Grid.RowDefinitions>
 
