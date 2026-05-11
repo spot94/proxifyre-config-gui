@@ -1,6 +1,6 @@
 # ProxiFyre Config Editor
 
-A portable **PowerShell + WPF GUI** for visually creating, editing, and validating ProxiFyre's `app-config.json`. No Visual Studio, no compilation, no external dependencies — just a single `.ps1` file.
+A portable **PowerShell + WPF GUI** for visually creating, editing, and validating [ProxiFyre](https://github.com/wiresock/proxifyre)'s `app-config.json`. No Visual Studio, no compilation, no external dependencies — just a single `.ps1` file.
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%207%2B-blue?logo=powershell)
 ![.NET](https://img.shields.io/badge/.NET-WPF-green?logo=dotnet)
